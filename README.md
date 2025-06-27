@@ -57,8 +57,8 @@ Currently this repo supports `Sonoma`. For anything below that you can use the [
 - Sleep, Shutdown, Restart `BigSur` `Monterey` `Ventura`
 - Audio Speaker & Earphone `BigSur` `Monterey` `Ventura` `Sonoma`
 - Bluetooth `BigSur` [`Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/3) `Ventura`
-- Trackpad, Trackball, Gestures `BigSur` `Monterey` `Ventura`
-- Battery Indicator `BigSur` `Monterey` `Ventura`
+- Trackpad, Trackball, Gestures `BigSur` `Monterey` `Ventura` `Sonoma`
+- Battery Indicator `BigSur` `Monterey` `Ventura` `Sonoma`
 - Camera `BigSur` `Monterey` `Ventura`
 - Dock station [`BigSur` `Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/2) `Ventura`
 - etc
