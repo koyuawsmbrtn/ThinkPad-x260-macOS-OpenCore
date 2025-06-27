@@ -30,6 +30,8 @@ Bootloader Ver. | v1.0.4
 Follow dortania guide on how to create a recovery usb for MacOS installation.
 You can find the MacOS installation guide at the following link, [`click here`](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
 
+Remember to generate your own serial number, board serial number, and smUUID before installing macOS. You can do that easily using the OC Auxiliary Tools.
+
 ## MacOS
 Currently this repo supports `Sonoma`. For anything below that you can use the [original repo](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore).
 
