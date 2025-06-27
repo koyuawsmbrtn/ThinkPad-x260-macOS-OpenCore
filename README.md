@@ -52,9 +52,7 @@ Currently this repo supports `Sonoma`. For anything below that you can use the [
 
 ## What's Working?
 
-Note: Sonoma which is currently supported is being tested and will be updated soon.
-
-- QE/CI Intel HD Graphics 520 `BigSur` `Monterey` `Ventura`
+- QE/CI Intel HD Graphics 520 `BigSur` `Monterey` `Ventura` `Sonoma`
 - Power Management `BigSur` `Monterey` `Ventura`
 - Sleep, Shutdown, Restart `BigSur` `Monterey` `Ventura`
 - Audio Speaker & Earphone `BigSur` `Monterey` `Ventura`
