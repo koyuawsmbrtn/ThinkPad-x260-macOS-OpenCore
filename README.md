@@ -6,10 +6,10 @@ Specification | Configuration
 Processor | Intel Core i7-6500U
 Integrated Graphics | Intel HD Graphics 520
 Memory | SK-Hynix 8GB DDR4
-Storage | 512GB WD Blue HDD Sata
+Storage | 256GB SATA SSD
 Wireless Card | Intel AC-8260 Dual Band + Bluetooth
 Bootloader | OpenCore
-Bootloader Ver. | v0.8.6
+Bootloader Ver. | v1.0.4
 ## Screenshot
 <p align="center">
   <kbd><br>M O N T E R E Y
@@ -31,13 +31,10 @@ Follow dortania guide on how to create a recovery usb for MacOS installation.
 You can find the MacOS installation guide at the following link, [`click here`](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
 
 ## MacOS
-- Ventura (Tested, OpenCore)
-- Monterey (Tested, OpenCore)
-- Bigsur (Tested, OpenCore)
+Currently this repo supports `Sonoma`
 
-> Airportitwlm needs to be replaced according to the OS version used, the latest airportitwlm by default is for Monterey.
-> The current EFI supports Ventura out of box but wifi is slow. Other features are intact.
-> The kext file already has airportitwlm for Monterey and Bigsur. Use propertree and enable it in config.plist accordingly.
+> Airportitwlm needs to be replaced according to the OS version used, the latest airportitwlm by default is for Sonoma.
+> The current EFI supports Sonoma out of box. Other features are intact.
 > To download latest Airportitwlm patch [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
 
 # Bios
@@ -52,6 +49,9 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - `CSM Support`: **No**.
 
 ## What's Working?
+
+Note: Sonoma which is currently supported is being tested and will be updated soon.
+
 - QE/CI Intel HD Graphics 520 `BigSur` `Monterey` `Ventura`
 - Power Management `BigSur` `Monterey` `Ventura`
 - Sleep, Shutdown, Restart `BigSur` `Monterey` `Ventura`
@@ -70,3 +70,4 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - [Vcyzteen](https://github.com/vcyzteen)
 - [r/hackintosh](https://www.reddit.com/r/hackintosh/)
 - [r/unixporn](https://github.com/racka98)
+- [SuhailSherief](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/tree/ventura)
