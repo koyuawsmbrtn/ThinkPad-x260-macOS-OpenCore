@@ -1627,7 +1627,7 @@
                 <key>AdviseFeatures</key>
                 <true/>
                 <key>MLB</key>
-                <string>C02917701J9JH4RUE</string>
+                <string>C029461004NKN2RJA</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1639,11 +1639,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro15,2</string>
+                <string>MacBookAir8,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02YM4YSJHCC</string>
+                <string>C02ZP0JRJK78</string>
                 <key>SystemUUID</key>
-                <string>997DB9F7-5B7D-4027-BA9B-0BD898187FF3</string>
+                <string>1E790054-2B7E-4269-8AE8-E6B17006A260</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
