@@ -53,14 +53,14 @@ Currently this repo supports `Sonoma`. For anything below that you can use the [
 ## What's Working?
 
 - QE/CI Intel HD Graphics 520 `BigSur` `Monterey` `Ventura` `Sonoma`
-- Power Management `BigSur` `Monterey` `Ventura`
-- Sleep, Shutdown, Restart `BigSur` `Monterey` `Ventura`
+- Power Management `BigSur` `Monterey` `Ventura` `Sonoma`
+- Sleep, Shutdown, Restart `BigSur` `Monterey` `Ventura` `Sonoma`
 - Audio Speaker & Earphone `BigSur` `Monterey` `Ventura` `Sonoma`
 - Bluetooth `BigSur` [`Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/3) `Ventura`
 - Trackpad, Trackball, Gestures `BigSur` `Monterey` `Ventura` `Sonoma`
 - Battery Indicator `BigSur` `Monterey` `Ventura` `Sonoma`
-- Camera `BigSur` `Monterey` `Ventura`
-- Dock station [`BigSur` `Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/2) `Ventura`
+- Camera `BigSur` `Monterey` `Ventura` `Sonoma`
+- Dock station [`BigSur` `Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/2) `Ventura` `Sonoma`
 - etc
 
 ## Credits:
